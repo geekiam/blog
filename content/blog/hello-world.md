@@ -2,10 +2,12 @@
 title: Hello World!
 description: A timeless programmer introduction to new concepts
 summary:  An introductory blog post
-author: Gary Woodfine
+author:
+  name: Gary Woodfine
+  github: garywoodfine
 featureImage:
-url: /images/hello-world.jpg
-published: 2023-03-04
+  url: /images/hello-world.jpg
+  title: hello world
 ---
 This is a classic programmers introduction to new concepts.
 ### How to write a blog post in Nuxt
