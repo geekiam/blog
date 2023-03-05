@@ -1,4 +1,8 @@
-<script lang="ts" setup></script>
+<script lang="ts" setup>
+
+
+const {data: posts } = await useAsyncData('posts', () => queryContent('/blog').find());
+</script>
 
 <template>
   <nuxt-layout name="list">
@@ -6,7 +10,13 @@
       <p>Left Column</p>
     </template>
     <template #middleColumn>
-      <p>Middle Column</p>
+     <ul>
+       <li v-for="post in posts" :key="post._id">
+         <nuxt-link :to="post._path">
+           {{post.title}}
+         </nuxt-link>
+       </li>
+     </ul>
     </template>
 
     <template #rightColumn>
