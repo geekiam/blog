@@ -24,4 +24,4 @@ const {data: posts } = await useAsyncData('posts', () => queryContent('/blog').f
   </nuxt-layout>
 </template>
 
-<style scoped></style>
+

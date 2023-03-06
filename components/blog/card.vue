@@ -50,4 +50,4 @@ let githubUrl = `https://github.com/${props.post?.author.github}`;
 </a>
 </template>
 
-<style scoped></style>
+
