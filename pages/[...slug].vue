@@ -14,7 +14,7 @@ const {data: post} = await useAsyncData('post', () => queryContent('/blog')
     </template>
 
     <template #rightColumn>
-      <p class="text-red-600">This is the content for the right column</p>
+
     </template>
   </nuxt-layout>
 </template>
