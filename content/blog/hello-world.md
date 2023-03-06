@@ -5,9 +5,11 @@ summary:  An introductory blog post
 author:
   name: Gary Woodfine
   github: garywoodfine
+  imageUrl: /images/garywoodfine.png
 featureImage:
   url: /images/hello-world.jpg
   title: hello world
+publishDate: 2023-03-03
 ---
 This is a classic programmers introduction to new concepts.
 ### How to write a blog post in Nuxt
@@ -19,4 +21,4 @@ Just write the content in Markdown and we'll let Nuxt take care of the rest of t
 * Vue 3
 * Typescript
 * A dash of lime!
-  ![Picture of cocktail](images/nice-cocktail.jpg)
+  ![Picture of cocktail](/images/cocktail.jpg)
