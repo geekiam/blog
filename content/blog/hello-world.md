@@ -9,7 +9,8 @@ author:
 featureImage:
   url: /images/hello-world.jpg
   title: hello world
-publishDate: 2023-03-03
+publishDate: 04 March 2023
+publishDateTime: 2023-03-04
 ---
 This is a classic programmers introduction to new concepts.
 ### How to write a blog post in Nuxt

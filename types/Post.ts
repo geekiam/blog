@@ -1,3 +1,6 @@
+import {FeatureImage} from "~/types/FeatureImage";
+import {Author} from "~/types/Author";
+
 export type Post = {
     title: string
     body: Object[]
@@ -6,17 +9,10 @@ export type Post = {
     _path: string
     featureImage: FeatureImage
     publishDate: string
+    publishDateTime: Date
     author: Author
 
 }
 
-export type FeatureImage = {
-    url: string
-    title: string
-}
 
-export type Author ={
-    name: string
-    github: string
-    imageUrl: string
-}
+

@@ -10,11 +10,11 @@ const props = defineProps({
 
 })
 
-var githubUrl = `https://github.com/${props.post?.author.github}`
+let githubUrl = `https://github.com/${props.post?.author.github}`;
 </script>
 
 <template>
-
+<a :href="post._path" class="relative flex flex-col gap-8 lg:flex-row">
     <div class="relative aspect-[16/9] sm:aspect-[2/1] lg:aspect-square lg:w-64 lg:shrink-0">
       <img :src="post.featureImage.url" :alt="post.featureImage.title" class="absolute inset-0 h-full w-full rounded-2xl bg-gray-50 object-cover" />
       <div class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
@@ -47,7 +47,7 @@ var githubUrl = `https://github.com/${props.post?.author.github}`
         </div>
       </div>
     </div>
-
+</a>
 </template>
 
 <style scoped></style>
