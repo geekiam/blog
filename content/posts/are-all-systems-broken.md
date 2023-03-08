@@ -74,3 +74,15 @@ religious belief and affiliation, class imperatives, gender roles, and regional 
 
 We are supposedly lead to believe that a Nation, is group or collection of people sharing a common immutable ethnicity, 
 shared language, history, bloodline, culture, character, habits, traditions, customs and manners. 
+
+The modern state, in order to attain the degree of cultural homogeneity to permit political heterogeneity, had 
+to condense sufficient cultural power to make the act of coercion relatively risk-free. Sections of the population 
+regarded as posing a potential risk had to be made to conform to a state-driven and elite-driven model of cultural and 
+moral normality. 
+
+The state, has taken over some of the normative goal-setting that religion had previously performed. In exchange, 
+citizenship offers access to political power and *freedoms*.
+
+It is a fallacy that all people living in between a defined set geographical coordinates will all want to identify 
+
+

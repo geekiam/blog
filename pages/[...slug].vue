@@ -10,7 +10,8 @@ const {data: post} = await useAsyncData('post', () => queryContent('/posts')
 <template>
   <nuxt-layout name="post">
     <template #mainContent >
-     <content-renderer :value="post" />
+      <post-header :post="post" />
+      <content-renderer :value="post" />
     </template>
 
     <template #rightColumn>
