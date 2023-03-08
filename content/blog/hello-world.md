@@ -23,3 +23,11 @@ Just write the content in Markdown and we'll let Nuxt take care of the rest of t
 * Typescript
 * A dash of lime!
   ![Picture of cocktail](/images/cocktail.jpg)
+
+```javascript
+
+// This is a code block 
+const helloWorld = () => {
+  console.log('Hello World!')
+}
+```
