@@ -49,4 +49,19 @@ For centuries states have tried to appease the population by offering them a con
 whereby every few years the citizens get to elect their political representatives in the vain hope that they may support 
 and supposedly *fight* for their constituents. The fact is that these representatives just end up disappearing into the 
 orgy of centralised planning disaster zones that are called Parliaments, and are then forced or what is commonly referred
-to as *whipped* to serve the aims and whims of the *party*
+to as *whipped* to serve the aims and whims of the *party*.
+
+On the rare occasion that a representative breaks ranks and chooses to vote against the *party* it may make the early evening 
+news cycle but will soon be covered by a new scandal to serve as a distraction.
+
+The electorate is lulled into the security of the supposed Group Think fiasco which is often referred to as the *Party Manifesto*
+which touted as the Mandate of the party and the choice of the people.  However, in reality nobody ever agrees on anything
+contained in the Manifesto from the electorate to the party members.  In most cases, Manifestos only contain loosely related words
+that may form vague concepts and no real measurable benefits.
+
+Why is it that people across the globe continue to delude themselves that systems of voting, government and centralised planning
+are fit for purpose, in the digital and modern age?
+
+
+# The fallacy of Nationhood
+
