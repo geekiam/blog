@@ -3,7 +3,7 @@
 
 import Card from "~/components/blog/card.vue";
 
-const {data: posts } = await useAsyncData('posts', () => queryContent('/blog').find());
+const {data: posts } = await useAsyncData('posts', () => queryContent('/posts').find());
 
 </script>
 

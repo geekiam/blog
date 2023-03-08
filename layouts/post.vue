@@ -8,7 +8,8 @@
     <main class="min-w-0 flex-1 lg:flex">
       <!-- Primary column -->
       <section aria-labelledby="primary-heading" class="flex h-full min-w-0 flex-1 flex-col overflow-y-auto lg:order-last ">
-       <div class="prose prose-lg dark:text-gray-100 text-gray-900 dark:text-gray-100">
+       <div class="prose prose-lg dark:text-gray-100 text-gray-900 dark:text-gray-100 dark:prose-blockquote:text-green-500
+       prose-blockquote:text-xl prose-headings:text-green-800 prose-a:no-underline prose-a:text-green-500">
         <slot name="mainContent" />
        </div>
       </section>

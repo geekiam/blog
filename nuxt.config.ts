@@ -10,7 +10,7 @@ export default defineNuxtConfig({
 
             theme: {
                 // Default theme (same as single string)
-                default: 'github-dark',
+                default: 'monokai',
                 // Theme used if `html.dark`
                 dark: 'github-dark',
                 // Theme used if `html.sepia`
