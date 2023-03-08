@@ -6,10 +6,15 @@
   <div class="flex min-h-0 flex-1 overflow-hidden">
    <!-- Main area -->
     <main class="min-w-0 flex-1 lg:flex">
+      <div class="xl:w-64 xl:flex-shrink-0 ">
+        <div class="h-full py-6 pl-4 pr-6 sm:pl-6 lg:pl-8 xl:pl-0">
+          <!-- Left column area -->
+        </div>
+      </div>
       <!-- Primary column -->
       <section aria-labelledby="primary-heading" class="flex h-full min-w-0 flex-1 flex-col overflow-y-auto lg:order-last ">
        <div class="prose prose-lg dark:text-gray-100 text-gray-900 dark:text-gray-100 dark:prose-blockquote:text-green-500
-       prose-blockquote:text-xl prose-headings:text-green-800 prose-a:no-underline prose-a:text-green-500">
+       prose-blockquote:text-xl prose-headings:text-green-800 prose-a:no-underline prose-a:text-green-500 justify-evenly">
         <slot name="mainContent" />
        </div>
       </section>

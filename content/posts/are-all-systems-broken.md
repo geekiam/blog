@@ -63,5 +63,14 @@ Why is it that people across the globe continue to delude themselves that system
 are fit for purpose, in the digital and modern age?
 
 
-# The fallacy of Nationhood
+### The fallacy of Nationhood
 
+Often the refrain of the elected party to power that their rise to the position of power is the choice of the people, 
+are then supposedly to identify themselves as a nation, all believing and identifying with some supposed national traits.
+
+This *Nationalism* is supposed to mean an expression of identity that invokes,  glorifies, a deep and abiding connection
+between individuals of the *nation* that informs, complements, and often transcends other identities rooted in 
+religious belief and affiliation, class imperatives, gender roles, and regional affinities. 
+
+We are supposedly lead to believe that a Nation, is group or collection of people sharing a common immutable ethnicity, 
+shared language, history, bloodline, culture, character, habits, traditions, customs and manners. 
