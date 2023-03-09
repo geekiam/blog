@@ -75,14 +75,23 @@ religious belief and affiliation, class imperatives, gender roles, and regional 
 We are supposedly lead to believe that a Nation, is group or collection of people sharing a common immutable ethnicity, 
 shared language, history, bloodline, culture, character, habits, traditions, customs and manners. 
 
-The modern state, in order to attain the degree of cultural homogeneity to permit political heterogeneity, had 
+The modern state, in order to attain a degree of cultural homogeneity to permit political heterogeneity, had 
 to condense sufficient cultural power to make the act of coercion relatively risk-free. Sections of the population 
 regarded as posing a potential risk had to be made to conform to a state-driven and elite-driven model of cultural and 
 moral normality. 
 
-The state, has taken over some of the normative goal-setting that religion had previously performed. In exchange, 
+The state, has taken over the normative goal-setting that religion had previously performed. In exchange, 
 citizenship offers access to political power and *freedoms*.
 
-It is a fallacy that all people living in between a defined set geographical coordinates will all want to identify 
+When all is said and done the only real use case of Nationalism is primarily for the *Othering* of the outsiders and to 
+foster the fear of them. Driving groups to believe that they are all the same because they share common characteristics
+and the others that do not share these are for the most part cannot be trusted for their only wish is to destroy or steal.
 
+Modern politics has done nothing more than to descend to quagmire of *Culture Wars* among its own *nation* and attempts to
+paint those that do not believe or conform to views as *traitors*
 
+> Patriotism is the Last Refuge of the Scoundrel
+>
+
+True *patriotism* is defined as a generous love and true affection for ones country, but unfortunately in politics the 
+pretended *Patriotism* is used as nothing more as a cloak for self-interest and greed.
