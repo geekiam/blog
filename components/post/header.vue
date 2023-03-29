@@ -11,7 +11,7 @@ const props = defineProps({
 </script>
 
 <template>
-  <div class="p-0">
+  <div class="p-4">
     <h1>{{post.title}}</h1>
   </div>
 </template>

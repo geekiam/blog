@@ -95,3 +95,8 @@ paint those that do not believe or conform to views as *traitors*
 
 True *patriotism* is defined as a generous love and true affection for ones country, but unfortunately in politics the 
 pretended *Patriotism* is used as nothing more as a cloak for self-interest and greed.
+
+When one professes love for ones country, what exactly are the things you love about the country?  Is it the exact 
+geographic coordinates that the country is situated in?  Is it the soil? is it the grass that only grows within the 
+geographic area?
+
