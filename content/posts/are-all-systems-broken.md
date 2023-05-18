@@ -101,3 +101,7 @@ When one professes love for ones country, what exactly are the things you love a
 geographic coordinates that the country is situated in?  Is it the soil? is it the grass that only grows within the 
 geographic area?
 
+The reality is that the country is nothing more than a collection of people, who have been born and raised in a specific
+geographic area, who have been indoctrinated into a supposed set of beliefs, values and traditions.  The country is
+nothing more than the people who live in it, and the people who live in it are nothing more than the country.
+
