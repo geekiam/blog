@@ -63,6 +63,7 @@ that may form vague concepts and no real measurable benefits.
 Why is it that people across the globe continue to delude themselves that systems of voting, government and centralised planning
 are fit for purpose, in the digital and modern age?
 
+![patriotsim](/images/patriotism.jpg){.inline.m-0.bg-primary-800}
 
 ### The fallacy of Nationhood
 
@@ -116,3 +117,6 @@ encourage free thinking, creativity, innovation, or to encourage the students to
 The education system is designed to ensure that the students are able to pass the exams, supposedly to ensure that they 
 are able to get a job in order to pay taxes.  It's sole purpose from the outset is to ensure that the students are 
 able to conform to the system, ensuring that the students are able to be good consumers, compliant citizens.
+
+The education system has now evolved into a system that has is specifically designed to ensure the enslavemnt of the
+future generations by the system.
