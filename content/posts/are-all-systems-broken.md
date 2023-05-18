@@ -105,3 +105,14 @@ The reality is that the country is nothing more than a collection of people, who
 geographic area, who have been indoctrinated into a supposed set of beliefs, values and traditions.  The country is
 nothing more than the people who live in it, and the people who live in it are nothing more than the country.
 
+![education](/images/education.jpg){.inline.m-0.bg-primary-800} 
+
+### Failing education
+
+The education system has been designed to indoctrinate the population into the *system* and to ensure that they are 
+suitably trained to be able to perform the tasks that are required of them.  The education system is not designed to
+encourage free thinking, creativity, innovation, or to encourage the students to question the status quo.  
+
+The education system is designed to ensure that the students are able to pass the exams, supposedly to ensure that they 
+are able to get a job in order to pay taxes.  It's sole purpose from the outset is to ensure that the students are 
+able to conform to the system, ensuring that the students are able to be good consumers, compliant citizens.
