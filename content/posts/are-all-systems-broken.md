@@ -42,6 +42,7 @@ were supposedly created to serve to become the slaves.
 The sole intention of the state is not to serve, but it is to drive its population further into debt and serfdom, to the benefit of
 the *elite* which has been the case for thousands of years.  
 
+![protests](/images/protests.jpg){.inline.m-0.bg-primary-800} 
 
 ### The Democracy delusion
 
