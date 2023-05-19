@@ -19,10 +19,5 @@ export default defineNuxtConfig({
             }
         },
     },
-    runtimeConfig: {
-        public: {
-            fantom_analytics_id: process.env.fantom_analytics_id,
-        }
-    }
 });
 

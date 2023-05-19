@@ -4,7 +4,7 @@ export default defineNuxtPlugin((nuxtApp) => {
     const config = useRuntimeConfig()
 
         nuxtApp.vueApp.use(VueFathom, {
-            siteID: config.public.fathom_analytics_id,
+            siteID:  "KSPWZULP",
             settings: {
                 url: "geekiam.blog",
                 spa: "history",
