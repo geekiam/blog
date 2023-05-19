@@ -6,7 +6,7 @@ export default defineNuxtPlugin((nuxtApp) => {
         nuxtApp.vueApp.use(VueFathom, {
             siteID: config.public.fantom_analytics_id,
             settings: {
-                url: "geekiam.io",
+                url: "geekiam.blog",
                 spa: "history",
             },
         });
