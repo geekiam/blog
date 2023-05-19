@@ -1,7 +1,7 @@
 ---
 title: Are all systems broken?
 description: Is it time to re-evaluate all systems? How does humanity progress and eradicate the mess its created? 
-summary:  The System Is Broken. Why you now have To blaze your own way forward
+summary:  How the societal systems are broken. Why you now have to blaze your own way forward with self sovereignty.
 author:
   name: Gary Woodfine
   github: garywoodfine
