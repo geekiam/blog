@@ -32,8 +32,9 @@ the young nation, in 1791, from the tyranny of a tyrannical external governments
 the citizens of the country are now being terrorised by the very government that was created to protect them, and they fear the
 removal of their Second Amendment rights will lead to persecution from their own government.
 
-> A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
-> 
+::quote
+ A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
+::
 
 The root cause of many of the problems in the world today primarily stem from governments, and the over extended reach of 
 the state into the lives of its citizens. This has resulted in the *state* becoming the new religion, and the people they 
@@ -92,8 +93,9 @@ and the others that do not share these are for the most part cannot be trusted f
 Modern politics has done nothing more than to descend to quagmire of *Culture Wars* among its own *nation* and attempts to
 paint those that do not believe or conform to views as *traitors*
 
-> Patriotism is the Last Refuge of the Scoundrel
->
+::quote 
+  Patriotism is the Last Refuge of the Scoundrel
+::
 
 True *patriotism* is defined as a generous love and true affection for ones country, but unfortunately in politics the 
 pretended *Patriotism* is used as nothing more as a cloak for self-interest and greed.
