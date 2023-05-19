@@ -20,7 +20,7 @@ export default defineNuxtConfig({
         },
         runtimeConfig: {
             public: {
-                fantom_analytics_id: process.env.fantom_analytics_id,
+                fathom_analytics_id: process.env.fathom_analytics_id,
                 production_mode: isProduction
 
             }
