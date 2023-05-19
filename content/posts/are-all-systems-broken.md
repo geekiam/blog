@@ -33,7 +33,12 @@ the citizens of the country are now being terrorised by the very government that
 removal of their Second Amendment rights will lead to persecution from their own government.
 
 ::quote
- A well regulated Militia, being necessary to the security of a *free state*, the right of the people to keep and bear arms, shall not be infringed.
+ A well regulated Militia, being necessary to the security of a *free state*, the right of the people to keep and bear 
+arms, shall not be infringed.
+
+::
+::citation
+[Second Amendment to the United States Constitution](https://constitution.congress.gov/browse/amendment-2/)
 ::
 
 The root cause of many of the problems in the world today primarily stem from governments, and the over extended reach of 
@@ -94,7 +99,11 @@ Modern politics has done nothing more than to descend to quagmire of *Culture Wa
 paint those that do not believe or conform to views as *traitors*
 
 ::quote 
-  Patriotism is the last refuge of the scoundrel
+  Weakened by the challenge of technology, the state will treat increasingly automonomous individuals, its former citizens,
+ with the same ruthlessness and diplomacy is has heretofore displayed in its dealings with other governments.
+::
+::citation
+  [The Sovereign Individual : Mastering the Transition to the Information Age](https://amzn.to/3Wlk1mg)
 ::
 
 True *patriotism* is defined as a generous love and true affection for ones country, but unfortunately in politics the 
