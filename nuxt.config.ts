@@ -2,6 +2,20 @@
 
 
 export default defineNuxtConfig({
+    head: {
+        script: [
+            {
+                hid: 'fathom', // unique identifier
+                src: 'KSPWZULP',
+                site: 'https://cdn.usefathom.com/script.js',
+                spa: 'auto', // set by fathom
+                defer: 'defer',
+                once: true, // only load once on SSR
+
+
+            }
+        ]
+    },
     content: {
         highlight: {
 
