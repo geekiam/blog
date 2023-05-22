@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 
-import { defineNuxtConfig } from #app
+
 export default defineNuxtConfig({
     content: {
         highlight: {
