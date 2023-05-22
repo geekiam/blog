@@ -5,7 +5,7 @@ export default defineNuxtConfig({
         head: {
             script: [
                 // <script src="https://myawesome-lib.js"></script>
-                { src: 'https://awesome-lib.js' }
+                { src: 'https://cdn.usefathom.com/script.js', defer: true, 'data-site': 'KSPWZULP', 'data-spa': 'auto', 'data-excluded-domains':'localhost' }
             ],
         }
     },
