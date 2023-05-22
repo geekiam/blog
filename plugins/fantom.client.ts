@@ -5,7 +5,7 @@ export default defineNuxtPlugin((nuxtApp) => {
         nuxtApp.vueApp.use(VueFathom, {
             siteID:  config.public.fathom_analytics_id,
             settings: {
-                url: "geekiam.blog",
+                url: "https://cdn.usefathom.com/script.js",
                 spa: "history",
             },
         });

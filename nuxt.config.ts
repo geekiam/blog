@@ -1,16 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 
+import { defineNuxtConfig } from #app
 export default defineNuxtConfig({
-    runtimeConfig: {
-        public :{
-            fathom_analytics_id: `KSPWZULP`
-        }
-    },
-    modules: ['@nuxt/content', '@nuxtjs/tailwindcss'],
-    tailwindcss: {
-        cssPath: '~/assets/css/tailwind.css',
-        configPath: 'tailwind.config',
-    },
     content: {
         highlight: {
 
@@ -23,6 +14,16 @@ export default defineNuxtConfig({
                 sepia: 'monokai'
             }
         },
+    },
+    modules: ['@nuxt/content', '@nuxtjs/tailwindcss'],
+    runtimeConfig: {
+        public: {
+            fathom_analytics_id: `KSPWZULP`
+        }
+    },
+    tailwindcss: {
+        cssPath: '~/assets/css/tailwind.css',
+        configPath: 'tailwind.config',
     },
 
 });
