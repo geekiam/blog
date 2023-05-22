@@ -4,11 +4,10 @@ export default defineNuxtConfig({
     app:{
         head: {
             script: [
-                { src: '' }
-            ],
+                { src: ''},
+                ]
         }
     },
-
     content: {
         highlight: {
 

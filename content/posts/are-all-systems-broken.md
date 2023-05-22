@@ -129,5 +129,16 @@ The education system is designed to ensure that the students are able to pass th
 are able to get a job in order to pay taxes.  It's sole purpose from the outset is to ensure that the students are 
 able to conform to the system, ensuring that the students are able to be good consumers, compliant citizens.
 
-The education system has now evolved into a system that has is specifically designed to ensure the enslavemnt of the
+The education system has now evolved into a system that has is specifically designed to ensure the enslavement of the
 future generations by the system.
+
+When the Education system was originally devised industries needed workers with a relatively fixed set of skills and 
+knowledge. However, today this idea is rapidly losing relevance in an era where innovation, disruption and constant 
+change, adaptability and learning agility are most needed.
+
+The current education system, built on the Industrial Revolution model, which focused on IQ, in particular memorization
+and standardization – skills that will be easily and efficiently supplanted by artificial and augmented intelligence (AI)
+, where IQ alone isn’t sufficient. 
+
+To succeed future generations will need a complementary mix IQ (intelligence) + EQ (emotional intelligence) 
++ RQ (resilience) to reach their potential.
