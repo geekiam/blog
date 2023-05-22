@@ -4,8 +4,7 @@ export default defineNuxtConfig({
     app:{
         head: {
             script: [
-                // <script src="https://myawesome-lib.js"></script>
-                { src: 'https://cdn.usefathom.com/script.js', defer: true, 'data-site': 'KSPWZULP', 'data-spa': 'auto', 'data-excluded-domains':'localhost' }
+                { src: '' }
             ],
         }
     },
@@ -26,7 +25,7 @@ export default defineNuxtConfig({
     modules: ['@nuxt/content', '@nuxtjs/tailwindcss'],
     runtimeConfig: {
         public: {
-            fathom_analytics_id: `KSPWZULP`
+            fathom_analytics_id: process.env.fathom_analytics_id,
         }
     },
     tailwindcss: {
