@@ -1,6 +1,11 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 
 export default defineNuxtConfig({
+    runtimeConfig: {
+        public :{
+            fathom_analytics_id: `KSPWZULP`
+        }
+    },
     modules: ['@nuxt/content', '@nuxtjs/tailwindcss'],
     tailwindcss: {
         cssPath: '~/assets/css/tailwind.css',
@@ -19,5 +24,6 @@ export default defineNuxtConfig({
             }
         },
     },
+
 });
 
