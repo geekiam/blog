@@ -1,6 +1,6 @@
 ---
 title: Are all systems broken?
-description: Is it time to re-evaluate all systems? How does humanity progress and eradicate the mess its created? 
+description: Is it time to re-evaluate all systems? How does humanity progress and eradicate the mess its created? Are we doomed to repeat the same mistakes? 
 summary:  How the societal systems are broken. Why you now have to blaze your own way forward with self sovereignty.
 author:
   name: Gary Woodfine
@@ -99,7 +99,7 @@ Modern politics has done nothing more than to descend to quagmire of *Culture Wa
 paint those that do not believe or conform to views as *traitors*
 
 ::quote 
-  Weakened by the challenge of technology, the state will treat increasingly automonomous individuals, its former citizens,
+  Weakened by the challenge of technology, the state will treat increasingly autonomous individuals, its former citizens,
  with the same ruthlessness and diplomacy is has heretofore displayed in its dealings with other governments.
 ::
 ::citation

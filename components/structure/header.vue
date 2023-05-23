@@ -2,7 +2,7 @@
 <script lang="ts" setup>
 </script>
 <template>
-  <header class="dark:bg-gray-900 bg-gray-100">
+  <header class="dark:bg-gray-800 bg-gray-200">
     <nav class="mx-auto max-w-7xl px-6 lg:px-8" aria-label="Top">
       <div class="flex w-full items-center justify-between border-b border-green-800 py-6 lg:border-none">
         <div class="flex items-center">

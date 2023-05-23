@@ -14,6 +14,7 @@ let githubUrl = `https://github.com/${props.post?.author.github}`;
 </script>
 
 <template>
+  <div class="mt-4 py-5 px-2">
 <a :href="post._path" class="relative flex flex-col gap-8 lg:flex-row">
     <div class="relative aspect-[16/9] sm:aspect-[2/1] lg:aspect-square lg:w-64 lg:shrink-0">
       <img :src="post.featureImage.url" :alt="post.featureImage.title" class="absolute inset-0 h-full w-full rounded-2xl bg-gray-50 object-cover" />
@@ -36,18 +37,18 @@ let githubUrl = `https://github.com/${props.post?.author.github}`;
         <div class="relative flex items-center gap-x-4">
           <img :src="post.author.imageUrl" alt="" class="h-10 w-10 rounded-full bg-gray-50" />
           <div class="text-sm leading-6">
-            <p class="font-semibold text-gray-900">
-              <a :href="githubUrl">
-                <span class="absolute inset-0" />
+            <p class="font-semibold dark:text-green-600 text-green-800">
+              <a :href="githubUrl" >
+                <span class="absolute inset-0 " />
                 {{ post.author.name }}
               </a>
             </p>
-            <p class="dark:text-green-600 text-green-800">{{ post.author.name }}</p>
           </div>
         </div>
       </div>
     </div>
 </a>
+  </div>
 </template>
 
 
