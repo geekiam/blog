@@ -13,8 +13,8 @@
       </div>
       <!-- Primary column -->
       <section aria-labelledby="primary-heading" class="flex h-full min-w-0 flex-1 flex-col overflow-y-auto lg:order-last ">
-       <div class="prose prose-lg dark:text-gray-100 text-gray-900 dark:text-gray-100 dark:prose-blockquote:text-green-500
-       prose-blockquote:text-xl prose-headings:text-green-800 prose-a:no-underline prose-a:text-green-500 justify-evenly">
+       <div class="prose prose-lg dark:text-gray-100 text-gray-900  dark:prose-blockquote:text-orange-500
+       prose-blockquote:text-xl prose-headings:text-orange-500 prose-a:no-underline prose-a:text-orange-500 dark:prose-a:text-orange-500 justify-evenly">
         <slot name="mainContent" />
        </div>
       </section>

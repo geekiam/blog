@@ -41,7 +41,9 @@ One of the most catching lines for me when starting to this book was the followi
 ::quote
  The cyber-economy, rather than china, could well be the greatest economic phenomenon of the next 30 years
 ::
-
+::citation
+[The Sovereign Individual : Mastering the Transition to the Information Age](https://amzn.to/3Wlk1mg)
+::
 This is rather poignant, considering the book was published in 1997, and the internet was still in its infancy.  Some 
 of the most notable companies of the internet age, such as Google, Facebook, Twitter, Amazon, and Netflix, were just
 about getting started. We were still a few years away from the dot-com bubble, and the internet was still a novelty
@@ -53,7 +55,9 @@ The next passage that really caught my attention next was :
 citizens, with the same ruthlessness and diplomacy is has heretofore displayed in its dealings with other governments.
 
 ::
-
+::citation
+[The Sovereign Individual : Mastering the Transition to the Information Age](https://amzn.to/3Wlk1mg)
+::
 
 
 ### Conclusion

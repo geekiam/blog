@@ -22,10 +22,10 @@ let githubUrl = `https://github.com/${props.post?.author.github}`;
     </div>
     <div>
       <div class="flex items-center gap-x-4 text-xs">
-        <time :datetime="post.publishDate" class="text-green-900 dark:text-green-600">{{ post.publishDate }}</time>
+        <time :datetime="post.publishDate" class="text-orange-500 dark:text-orange-500">{{ post.publishDate }}</time>
       </div>
       <div class="group relative max-w-xl">
-        <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 dark:text-gray-100 group-hover:text-gray-600 dark:group-hover:text-gray-400">
+        <h3 class="mt-3 text-lg font-semibold leading-6 text-orange-500 dark:text-orange-500 group-hover:text-orange-400 dark:group-hover:text-orange-400">
           <a :href="post._path">
             <span class="absolute inset-0" />
             {{ post.title }}
@@ -37,7 +37,7 @@ let githubUrl = `https://github.com/${props.post?.author.github}`;
         <div class="relative flex items-center gap-x-4">
           <img :src="post.author.imageUrl" alt="" class="h-10 w-10 rounded-full bg-gray-50" />
           <div class="text-sm leading-6">
-            <p class="font-semibold dark:text-green-600 text-green-800">
+            <p class="font-semibold dark:text-orange-500 text-orange-500">
               <a :href="githubUrl" >
                 <span class="absolute inset-0 " />
                 {{ post.author.name }}
