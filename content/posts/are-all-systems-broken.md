@@ -140,5 +140,7 @@ The current education system, built on the Industrial Revolution model, which fo
 and standardization – skills that will be easily and efficiently supplanted by artificial and augmented intelligence (AI)
 , where IQ alone isn’t sufficient. 
 
-To succeed future generations will need a complementary mix IQ (intelligence) + EQ (emotional intelligence) 
-+ RQ (resilience) to reach their potential.
+To succeed future generations will need a complementary mix of the following 3 components to reach their potential:
+* IQ (intelligence) 
+* EQ (emotional intelligence) 
+* RQ (resilience) 
