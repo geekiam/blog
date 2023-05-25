@@ -16,6 +16,7 @@ function select(url:string) {
          <a href="https://amzn.to/45EaivZ" class="md:text-3xl text-xl">The Sovereign Individual</a>
         <p class="md:text-lg text-gray-800 dark:text-gray-100 text-base mb-5">An exploration into the greatest economic and political transition in
           centuries—the shift from an industrial to an information-based society. This transition, which they have termed "the fourth stage of human society,"</p>
+        <div class="mt-10 p-5">
         <button type='button' v-on:click='select("https://amzn.to/45EaivZ")'
                 class='flex break-inside bg-orange-400 text-white border-2 border-transparent rounded-3xl px-6 py-3 mb-4 w-full mt-5'>
           <div class='m-auto'>
@@ -25,6 +26,7 @@ function select(url:string) {
             </div>
           </div>
         </button>
+        </div>
       </div>
     </div>
 
