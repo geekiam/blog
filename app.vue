@@ -2,15 +2,6 @@
 useHead({
   title: 'Geekiam',
   meta: [
-    {
-      name: 'description',
-      content: 'Discover, Organise, Share and Promote self sovereignty',
-    },
-    { name: 'og:title', content: 'Geekiam' },
-    {
-      name: 'og:description',
-      content: 'Discover, Organise, Share and Promote self sovereignty',
-    },
     { name: 'og:image', content: 'https://geekiam.io/geekiam.png' },
     { name: 'og:url', content: 'https://geekiam.io' },
     { name: 'twitter:card', content: 'summary_large_image' },
