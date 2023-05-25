@@ -59,6 +59,16 @@ citizens, with the same ruthlessness and diplomacy is has heretofore displayed i
 [The Sovereign Individual : Mastering the Transition to the Information Age](https://amzn.to/3Wlk1mg)
 ::
 
+The core thesis of the book is that the incumbent nation-state will be replaced by a new form of social organization, and
+replaced by **Sovereign Individuals** in the Information Age. The growing ease of transferring assets electronically 
+across state borders will preclude taxation. In the foreseen decentralized environment talented individuals will act 
+unimpeded by external authority. 
+
+This book, will obviously be enjoyed by those of a libertarian bent, but it is also a book that should be read by those
+with anarchist tendencies. The book is a very interesting read, and it is a book that will make you think. It certainly
+helped me reshape my thoughts on the future of the internet and the future of the nation-state.
+
+
 
 ### Conclusion
 The one thing the book got wrong was at the end -- saying "becoming a programmer isn't necessarily the best way to 
