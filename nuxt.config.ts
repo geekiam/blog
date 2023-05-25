@@ -1,17 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-    app: {
-        head: {
-            charset: 'utf-8',
-            meta: [
-                { name: 'viewport', content: 'width=device-width, initial-scale=1' }
-            ],
-            script: [
-                { src: ''},
-                ]
-        }
-    },
-    content: {
+        content: {
         highlight: {
 
             theme: {
