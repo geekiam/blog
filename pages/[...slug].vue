@@ -12,6 +12,9 @@ useSeoMeta({
   ogDescription: () => post.value?.summary,
   ogImage:  () => `https://geekiam.blog${post.value?.featureImage.url}`,
   twitterCard: 'summary_large_image',
+  twitterDescription: () => post.value?.summary,
+  twitterImage: () => `https://geekiam.blog${post.value?.featureImage.url}`,
+  twitterTitle: () => post.value?.title,
 })
 
 </script>
