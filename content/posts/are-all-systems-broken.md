@@ -140,6 +140,34 @@ The reality is that the country is nothing more than a collection of people, who
 geographic area, who have been indoctrinated into a supposed set of beliefs, values and traditions.  The country is
 nothing more than the people who live in it, and the people who live in it are nothing more than the country.
 
+The United Kingdom is a prime example of this, where the people of the United Kingdom are supposedly to be proud to be 
+British, but what exactly does that mean?  As child of Welsh parents who emigrated to South Africa, where I was born and 
+raised, I was left confused for years when I asked my Dad if we were British, and he said no we are Welsh, we are never
+British.  
+
+Despite, living and growing up in South Africa, I always had a strong sense of being Welsh, and I am still very proud of
+my Welsh heritage.  I have since read a lot of history about Wales, and the Welsh people, and  I do visit Wales often, 
+as now live in England.  
+
+My own personal irony is that although I am supposedly a British citizen, I have always had a British passport, I live in
+England, have English Wife and Kids, have strong affiliation with Wales, and I am a Welsh Rugby supporter, pay my taxes and vote,
+I am still not considered to be British, because most people identify me as a South African.
+
+The reality is that I am not British, I am not Welsh, I am not South African, I am not English, I do not necessarily identify
+as a citizen of any country, I am just a human being, who happens to live in England, and I am proud of my Welsh heritage.
+
+In many respects the words of my father still ring true in my ear, Internally I am Welsh, but externally I am South African, 
+and therefore I am not British. 
+
+There are also many things I am not. I am not a patriot, I am not a nationalist, I am not a citizen, I am not a subject, 
+I am not a slave, I am not a consumer, I am not a voter, I am not a taxpayer, I am not a number, I am not a statistic,
+I am not a label, I am not a product, I am not a resource, I am not a commodity, I am not a human resource, I am not a
+human capital, I am not a human asset, I am not a human capital stock, I am not a human capital resource, I am not an employee
+
+The only thing identify as would be as a, *Sovereign Individual*.
+
+
+
 ![education](/images/education.jpg){.inline.m-0.bg-primary-800} 
 
 ### Failing education
