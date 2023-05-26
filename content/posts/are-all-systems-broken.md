@@ -33,7 +33,7 @@ dissatisfaction with the system and traditional politics is high almost everywhe
 economy is rigged in favour of the rich and powerful, and 60% agree that traditional parties and politicians don’t care
 about people like them.
 
-### The Second Amendment Conundrum
+### The Second Amendment Paradox
 
 The United States of America (USA) provides a prime example of how the well intended ideals of the founding fathers of introducing
 the Second Amendment to the Constitution has now taken a very sinister turn. The Second Amendment was introduced to protect
@@ -41,21 +41,28 @@ the young nation, in 1791, from the abuse of a tyrannical external governments i
 the citizens of the country are now being terrorised by the very government that was originally created to protect them, and they fear the
 removal of their Second Amendment rights will lead to persecution from their own government.  
 
-The second amendment was introduced with the intent of defending America not just from external forces, but from corrupt
-and tyrannical forces from within. The founding fathers of the United States of America were very aware of the dangers of
-centralised power and the potential for corruption and abuse of power.  
-
-The result of this is that the citizens of the USA are now living in a state of perpetual fear of their own government,
-that by disarming themselves would only invite tyranny.
-
 ::quote
- A well regulated Militia, being necessary to the security of a *free state*, the right of the people to keep and bear 
+A well regulated Militia, being necessary to the security of a *free state*, the right of the people to keep and bear
 arms, shall not be infringed.
 
 ::
 ::citation
 [Second Amendment to the United States Constitution](https://constitution.congress.gov/browse/amendment-2/)
 ::
+
+The second amendment was introduced with the intent of defending America not just from external forces, but from corrupt
+and tyrannical forces from within. The founding fathers of the United States of America were very aware of the dangers of
+centralised power and the potential for corruption and abuse of power.  
+
+The result of this is that the citizens of the USA are now living in a state of perpetual fear of their own government,
+that by disarming themselves would only invite tyranny. The result of which is that Americans now find themselves embroiled
+in paradox that in order to protect their freedom they have to give up their freedom, or put in another way in order to
+prevent the murder of Americans they have to tolerate the murder of Americans.
+
+There is no easy solution to this problem, and ironically trying to solve the problem using the root cause of the problem 
+in the first place, the government is a dilemma in itself.
+
+### Getting to the root
 
 The root cause of many of the problems in the world today primarily stem from governments, and the over extended reach of 
 the state into the lives of its citizens. This has resulted in the *state* becoming the new religion, and the people they 
