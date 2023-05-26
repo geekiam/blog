@@ -21,8 +21,11 @@ useSeoMeta({
 
 <template>
   <nuxt-layout name="post">
-    <template #mainContent >
+    <template #header>
       <post-header :post="post" />
+    </template>
+    <template #mainContent >
+
       <content-renderer :value="post" />
     </template>
 

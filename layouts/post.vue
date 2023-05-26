@@ -3,6 +3,7 @@
 <template>
 
   <div class="relative flex min-h-screen flex-col px-10">
+    <slot name="header" />
   <div class="flex min-h-0 flex-1 overflow-hidden">
    <!-- Main area -->
     <main class="min-w-0 flex-1 lg:flex">

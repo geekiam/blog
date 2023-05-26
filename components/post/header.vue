@@ -11,7 +11,7 @@ const props = defineProps({
 </script>
 
 <template>
-  <div class="w-full mx-auto shadow-lg px-5 pt-5 pb-10 text-gray-100">
+  <div class="w-full mx-auto shadow-lg px-5 pt-5 pb-10 text-gray-100 mt-3 mb-5">
     <h1 class="text-orange-500">{{post.title}}</h1>
     <p class="text-md font-semibold italic dark:text-gray-200 text-gray-800 text-justify">
       {{post.summary}}
