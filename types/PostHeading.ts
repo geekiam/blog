@@ -7,4 +7,5 @@ export type PostHeading = {
     featureImage: FeatureImage
     summary: string
     author: Author
+    publishDate: string
 }

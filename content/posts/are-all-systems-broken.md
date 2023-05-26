@@ -14,23 +14,29 @@ publishDate: 04 March 2023
 publishDateTime: 2023-03-04:17:30
 ---
 
-Over the past few decades there has been a lot of talk about the *system* being broken. Some may say that the system 
+Over the past few decades there has been a lot of talk about *the system* being broken. Some may say that the system 
 has never worked.  The reality the system has only ever worked for a few and is continually being used to exploit the 
-many.
+many.  
 
-Over the past 2 decades it has become abundantly clear that the system is broken beyond repair now. The only way forward
+Over the past 2 decades it has become abundantly clear that *the system* has always been dysfunctional. The only way forward
 is to burn it down and start again. All the ideals, traditions, beliefs, values and sensibilities that have all been used
-to justify the system are now for the most part obsolete and only small percentage of the population still identify
+to justify *the system* are now for the most part obsolete and only small percentage of the population still identify
 and relate to them. 
 
 Our systems of Government, Education, Finance, Religion, Media, Science, Medicine, Law, Politics, Business, Agriculture
 have all been modified manipulated and corrupted to serve the few at the expense of the many, resulting that they now
 no longer have the effects that any of the originators intended.
 
+A [study by IPSOS MORI in 2019](https://www.ipsos.com/en-uk/global-study-nativist-populist-broken-society-britain "Majority worldwide say their society is broken ")
+found that people across the world believe that the system is broken in their country.  The study found that
+dissatisfaction with the system and traditional politics is high almost everywhere. Globally, 70% agree that their
+economy is rigged in favour of the rich and powerful, and 60% agree that traditional parties and politicians don’t care
+about people like them.
+
 The United States of America (USA) provides a prime example of how the well intended ideals of the founding fathers of introducing
 the Second Amendment to the Constitution has now taken a very sinister turn. The Second Amendment was introduced to protect
-the young nation, in 1791, from the tyranny of a tyrannical external governments i.e. United Kingdom & France. However, in the 21st century
-the citizens of the country are now being terrorised by the very government that was created to protect them, and they fear the
+the young nation, in 1791, from the abuse of a tyrannical external governments i.e. United Kingdom & France. However, in the 21st century
+the citizens of the country are now being terrorised by the very government that was originally created to protect them, and they fear the
 removal of their Second Amendment rights will lead to persecution from their own government.
 
 ::quote
@@ -121,12 +127,12 @@ nothing more than the people who live in it, and the people who live in it are n
 ![education](/images/education.jpg){.inline.m-0.bg-primary-800} 
 
 ### Failing education
-
-The education system has been designed to indoctrinate the population into the *system* and to ensure that they are 
-suitably trained to be able to perform the tasks that are required of them.  The education system is not designed to
+8
+The education system has been designed to indoctrinate the population into *the system* and to ensure that they are 
+suitably trained to be able to perform the tasks that are required of them.  The *education system* is not designed to
 encourage free thinking, creativity, innovation, or to encourage the students to question the status quo.  
 
-The education system is designed to ensure that the students are able to pass the exams, supposedly to ensure that they 
+The *education system* is designed to ensure that the students are able to pass the exams, supposedly to ensure that they 
 are able to get a job in order to pay taxes.  It's sole purpose from the outset is to ensure that the students are 
 able to conform to the system, ensuring that the students are able to be good consumers, compliant citizens.
 
@@ -145,3 +151,6 @@ To succeed future generations will need a complementary mix of the following 3 c
 * IQ (intelligence) 
 * EQ (emotional intelligence) 
 * RQ (resilience) 
+
+
+

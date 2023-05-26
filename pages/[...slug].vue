@@ -6,7 +6,7 @@ const {data: post} = await useAsyncData('post', () => queryContent('/posts')
     .findOne())
 
 useSeoMeta({
-  title: post.value?.title,
+  title:  post.value?.title,
   description: post.value?.description,
   ogTitle: () => post.value?.title,
   ogDescription: () => post.value?.summary,
