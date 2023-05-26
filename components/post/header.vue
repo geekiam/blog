@@ -22,7 +22,7 @@ const props = defineProps({
         <div class="sm:flex sm:items-center sm:justify-between">
           <div class="sm:flex sm:space-x-5">
             <div class="flex-shrink-0">
-              <img class="mx-auto h-8 w-8 rounded-full" :src="post?.author?.imageUrl" alt="" />
+              <img class="mx-auto h-10 w-10 rounded-full" :src="post?.author?.imageUrl" alt="" />
             </div>
             <div class="mt-4 text-center sm:mt-0 sm:pt-1 sm:text-left">
               <p class="text-orange-500 text-lg font-bold sm:text-xl">{{ post.author.name }}</p>
