@@ -1,5 +1,6 @@
 ---
 title: Are all systems broken?
+subtitle: Is it time to re-evaluate all social and political systems?
 description: Is it time to re-evaluate all systems? How does humanity progress and eradicate the mess its created? Are we doomed to repeat the same mistakes? 
 summary:  How the societal systems are broken. Why you now have to blaze your own way forward with self sovereignty.
 author:

@@ -1,5 +1,6 @@
 ---
-title: "Book Review: The Sovereign Individual"
+title: "The Sovereign Individual"
+subtitle: "Mastering the Transition to the Information Age"
 description:  A thesis on a revolution that will disconnect the individual from the nation-state in the 21st century. 
   the emergence of super-rich people with the influence of governments, and the rise of electronic money, among other things.
 summary:  Despite being published so many years ago, the book provides valuable insights into how to benefit from the digital transformation.
