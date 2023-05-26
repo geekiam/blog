@@ -33,11 +33,20 @@ dissatisfaction with the system and traditional politics is high almost everywhe
 economy is rigged in favour of the rich and powerful, and 60% agree that traditional parties and politicians don’t care
 about people like them.
 
+### The Second Amendment Conundrum
+
 The United States of America (USA) provides a prime example of how the well intended ideals of the founding fathers of introducing
 the Second Amendment to the Constitution has now taken a very sinister turn. The Second Amendment was introduced to protect
 the young nation, in 1791, from the abuse of a tyrannical external governments i.e. United Kingdom & France. However, in the 21st century
 the citizens of the country are now being terrorised by the very government that was originally created to protect them, and they fear the
-removal of their Second Amendment rights will lead to persecution from their own government.
+removal of their Second Amendment rights will lead to persecution from their own government.  
+
+The second amendment was introduced with the intent of defending America not just from external forces, but from corrupt
+and tyrannical forces from within. The founding fathers of the United States of America were very aware of the dangers of
+centralised power and the potential for corruption and abuse of power.  
+
+The result of this is that the citizens of the USA are now living in a state of perpetual fear of their own government,
+that by disarming themselves would only invite tyranny.
 
 ::quote
  A well regulated Militia, being necessary to the security of a *free state*, the right of the people to keep and bear 
@@ -127,7 +136,7 @@ nothing more than the people who live in it, and the people who live in it are n
 ![education](/images/education.jpg){.inline.m-0.bg-primary-800} 
 
 ### Failing education
-8
+
 The education system has been designed to indoctrinate the population into *the system* and to ensure that they are 
 suitably trained to be able to perform the tasks that are required of them.  The *education system* is not designed to
 encourage free thinking, creativity, innovation, or to encourage the students to question the status quo.  
