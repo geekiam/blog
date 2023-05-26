@@ -2,7 +2,9 @@
 title: Are all systems broken?
 subtitle: Is it time to re-evaluate all social and political systems?
 description: Is it time to re-evaluate all systems? How does humanity progress and eradicate the mess its created? Are we doomed to repeat the same mistakes? 
-summary:  How the societal systems are broken. Why you now have to blaze your own way forward with self sovereignty.
+summary:  For a system to be deemed as broken, it would be safe to assume that the said system must have at some point to 
+  be deemed as operational and functional. However, is that really at the point where we find ourselves, Is it now really the time that
+  we all learn to blaze our own way forward with self sovereignty.
 author:
   name: Gary Woodfine
   github: garywoodfine
@@ -164,7 +166,7 @@ I am not a slave, I am not a consumer, I am not a voter, I am not a taxpayer, I 
 I am not a label, I am not a product, I am not a resource, I am not a commodity, I am not a human resource, I am not a
 human capital, I am not a human asset, I am not a human capital stock, I am not a human capital resource, I am not an employee
 
-The only thing identify as would be as a, *Sovereign Individual*.
+The only thing identify as would be as a *Sovereign Individual*.
 
 
 
