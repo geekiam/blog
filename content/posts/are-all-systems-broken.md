@@ -198,5 +198,26 @@ To succeed future generations will need a complementary mix of the following 3 c
 * EQ (emotional intelligence) 
 * RQ (resilience) 
 
+Governments across the globe purport that the consequences of leaving school early,  at the individual level are
+primarily linked to unemployment, social exclusion, poverty, poor physical and mental health and lower life expectancy,
+and *low participation in democratic institutions and initiatives*. More broadly, these outcomes are associated with 
+poor economic growth and high economic and social costs.
+
+1. Personal Challenges, which the child is born with, acquires or experiences;
+2. Family Circumstances, such as living in a low-income or workless household, familial support and values around education
+3. Social Relationships, which refer to relational challenges brought about through all types of relationships outside 
+of the family, including with teachers, employers and peers;
+4. Institutional Features of the School/Work-Place, such as spatial aspects, organisational policies, institutional 
+norms, expectations and available resources;
+5. Structural Factors, including local and national economic challenges, national policies and challenges of the educational system.
 
 
+Centralisation, for example, requires teachers to adhere to prescribed curricula that may not be aligned with students’ 
+interests, learning needs or aspirations. Research shows that the school environment and infrastructure play a powerful 
+role in facilitating student engagement and that inappropriate teaching and 
+assessment strategies, resources, and available learning support greatly impact on student’s self-esteem, contributing 
+in many cases to school dropout. 
+
+An overly centralised education system may also impact on students’ sense of a lack of agency as they lack choice and 
+flexibility to direct their own learning paths, which could lead those at risk of EL to become disengaged and 
+potentially drop out.
