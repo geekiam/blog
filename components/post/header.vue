@@ -11,15 +11,15 @@ const props = defineProps({
 </script>
 
 <template>
-  <div class="w-full mx-auto px-5 pt-5 pb-2 mt-3 mb-5 shadow-2xl">
-    <div class="p-5 mt-3 px-16 text-center">
-      <h1 class="text-orange-500 text-center text-6xl">{{ post.title }}</h1>
-      <p class="dark:text-gray-200 text-gray-800 text-center text-2xl mt-2 mb-2 p-2">{{ post.subtitle }}</p>
-      <p class="text-md font-semibold italic  dark:text-gray-300 text-gray-800 text-justify p-5">
+  <div class="w-full mx-auto pt-5 pb-2 mt-3 mb-5 shadow-2xl">
+    <div class="mt-3 text-center">
+      <h1 class="text-orange-500 text-center text-6xl mb-3">{{ post.title }}</h1>
+      <p class="dark:text-gray-200 text-gray-800 text-center text-2xl mt-2 mb-2">{{ post.subtitle }}</p>
+      <p class="text-md font-semibold italic  dark:text-gray-300 text-gray-800 text-justify mb-3">
         {{ post.summary }}
       </p>
       <div class="overflow-hidden">
-        <div class="p-6">
+        <div class="">
           <div class="sm:flex sm:items-center sm:justify-between">
             <div class="sm:flex sm:space-x-5">
               <div class="flex-shrink-0">
