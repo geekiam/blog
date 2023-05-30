@@ -69,11 +69,35 @@ This book, will obviously be enjoyed by those of a libertarian bent, but it is a
 with anarchist tendencies. The book is a very interesting read, and it is a book that will make you think. It certainly
 helped me reshape my thoughts on the future of the internet and the future of the nation-state.
 
+The Sovereign Individual details strategies necessary for adapting financially to the next phase of Western 
+civilization. Albeit, one must remember that the book, was originally published in the 1997, and some of the technology 
+the book forecasts to come to exist, have already come to the fore.  It predicts that a cybercash, which we now know refers
+to Bitcoin.
+
+::quote
+This new form of money will reset the odds, reducing the capacity of the world's nation-states to determine 
+who becomes a Sovereign Individual
+::
+::citation
+[The Sovereign Individual : Mastering the Transition to the Information Age](https://amzn.to/3Wlk1mg)
+::
+
+The most poignant lines for me personally, especially when you take into account what is currently happening since the
+GFC (Great Financial Cash)
+
+::quote
+When Sovereign Individuals can deal across borders in a realm with no physical reality, they will no longer need to 
+tolerate the long rehearsed practice of governments degrading the value of their money through inflation
+::
+::citation
+[The Sovereign Individual : Mastering the Transition to the Information Age](https://amzn.to/3Wlk1mg)
+::
 
 
 ### Conclusion
-The one thing the book got wrong was at the end -- saying "becoming a programmer isn't necessarily the best way to 
+The one thing the book got slightly wrong was at the end -- saying "becoming a programmer isn't necessarily the best way to 
 exploit the change toward computerization" -- this was wrong, as it's a very useful skill (even if not one's primary 
 role), in addition to the general problem-solving skills they advocate. I think this was just because the author isn't 
-a technologist and thus doesn't appreciate the skills of programming beyond just rote coding. Otherwise, the book is 
-full of excellent and highly actionable advice.
+a technologist and thus doesn't appreciate the skills of programming beyond just rote coding.  Although, I would say
+programming as your only skill will not be sufficient. To survive in this new world, will require the Sovereign Individual
+to be multi-skilled, and programming will be just one of those multi-skills required.
