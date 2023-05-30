@@ -108,3 +108,7 @@ to be multi-skilled, and programming will be just one of those multi-skills requ
 
 On the whole this is still an outstanding book will help to replace false hopes and fictions with new understanding 
 and clarified values.
+
+::sovereign-individual
+
+::
