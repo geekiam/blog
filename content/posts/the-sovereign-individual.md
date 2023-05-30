@@ -93,6 +93,10 @@ tolerate the long rehearsed practice of governments degrading the value of their
 [The Sovereign Individual : Mastering the Transition to the Information Age](https://amzn.to/3Wlk1mg)
 ::
 
+The core message from this book is that the transition from an industrial to an information-based society, which they 
+have conceptually termed *the fourth stage of human society* , will liberate individuals as never before, irrevocably
+altering the power of government. 
+
 
 ### Conclusion
 The one thing the book got slightly wrong was at the end -- saying "becoming a programmer isn't necessarily the best way to 
@@ -101,3 +105,6 @@ role), in addition to the general problem-solving skills they advocate. I think 
 a technologist and thus doesn't appreciate the skills of programming beyond just rote coding.  Although, I would say
 programming as your only skill will not be sufficient. To survive in this new world, will require the Sovereign Individual
 to be multi-skilled, and programming will be just one of those multi-skills required.
+
+On the whole this is still an outstanding book will help to replace false hopes and fictions with new understanding 
+and clarified values.
