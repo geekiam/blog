@@ -169,7 +169,6 @@ human capital, I am not a human asset, I am not a human capital stock, I am not 
 The only thing identify as would be as a *Sovereign Individual*.
 
 
-
 ![education](/images/education.jpg){.inline.m-0.bg-primary-800} 
 
 ### Failing education
@@ -178,12 +177,13 @@ The education system has been designed to indoctrinate the population into *the 
 suitably trained to be able to perform the tasks that are required of them.  The *education system* is not designed to
 encourage free thinking, creativity, innovation, or to encourage the students to question the status quo.  
 
-The *education system* is designed to ensure that the students are able to pass the exams, supposedly to ensure that they 
-are able to get a job in order to pay taxes.  It's sole purpose from the outset is to ensure that the students are 
-able to conform to the system, ensuring that the students are able to be good consumers, compliant citizens.
+The primary focus of the *education system* is to ensure that the students are able to pass the exams, supposedly to 
+ensure that they are able to get a job in order to pay taxes.  It's sole purpose from the outset is to ensure that the 
+students are able to conform to the system, ensuring that the students are able to be good consumers, compliant citizens.
 
 The education system has now evolved into a system that has is specifically designed to ensure the enslavement of the
-future generations by the system.
+future generations by the system.  Taking these points into context, then it should be apparent that the education system
+is not actually failing it is achieve its primary objective, it's just that the people are not aware of the true purpose.
 
 When the Education system was originally devised industries needed workers with a relatively fixed set of skills and 
 knowledge. However, today this idea is rapidly losing relevance in an era where innovation, disruption and constant 
@@ -210,7 +210,6 @@ of the family, including with teachers, employers and peers;
 4. Institutional Features of the School/Work-Place, such as spatial aspects, organisational policies, institutional 
 norms, expectations and available resources;
 5. Structural Factors, including local and national economic challenges, national policies and challenges of the educational system.
-
 
 Centralisation, for example, requires teachers to adhere to prescribed curricula that may not be aligned with students’ 
 interests, learning needs or aspirations. Research shows that the school environment and infrastructure play a powerful 
