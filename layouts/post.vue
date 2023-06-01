@@ -2,7 +2,7 @@
 
 <template>
 
-  <div class="relative flex min-h-screen flex-col px-10">
+  <div class="relative flex min-h-screen flex-col">
     <slot name="header" />
   <div class="flex min-h-0 flex-1 overflow-hidden">
    <!-- Main area -->
@@ -14,7 +14,7 @@
       </div>
       <!-- Primary column -->
       <section aria-labelledby="primary-heading" class="flex h-full min-w-0 flex-1 flex-col overflow-y-auto lg:order-last ">
-       <div class="prose prose-lg dark:text-gray-100 text-gray-900  dark:prose-blockquote:text-orange-500
+       <div class="prose prose-lg dark:text-gray-100 text-gray-900 px-2 sm:px-1 dark:prose-blockquote:text-orange-500
        prose-blockquote:text-xl prose-headings:text-orange-500 prose-a:no-underline prose-a:text-orange-500 dark:prose-a:text-orange-500 justify-evenly">
         <slot name="mainContent" />
        </div>

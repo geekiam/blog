@@ -8,12 +8,12 @@ function select(url:string) {
 <template>
 
     <div
-        class="relative flex flex-col md:flex-row md:space-x-5 space-y-3 md:space-y-0 rounded-xl shadow-lg p-3 max-w-xs md:max-w-3xl mx-auto border border-gray-700">
+        class="relative flex flex-col md:flex-row md:space-x-5 space-y-3 md:space-y-0 rounded-xl shadow-lg p-2 max-w-xs md:max-w-3xl mx-auto border border-gray-700">
       <div class="w-full md:w-1/3 grid place-items-center">
         <img src="/images/sovereign-individual.jpg" alt="tailwind logo" class="rounded-xl" />
       </div>
-      <div class="w-full md:w-2/3 flex flex-col space-y-2 p-3">
-         <a href="https://amzn.to/45EaivZ" class="md:text-3xl text-xl">The Sovereign Individual</a>
+      <div class="w-full md:w-2/3 flex flex-col space-y-2">
+        <a href="https://amzn.to/45EaivZ" class="md:text-3xl text-xl">The Sovereign Individual</a>
         <p class="md:text-lg text-gray-800 dark:text-gray-100 text-base mb-5">An exploration into the greatest economic and political transition in
           centuries—the shift from an industrial to an information-based society. This transition, which they have termed "the fourth stage of human society,"</p>
         <div class="mt-10 p-5">
