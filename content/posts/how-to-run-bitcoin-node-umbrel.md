@@ -14,4 +14,5 @@ publishDate: 05 June 2023
 publishDateTime: 2023-06-05:17:30
 ---
 
+In [why run a bitcoin node](/posts/why-run-bitcoin-node/) we explored the reasons why you should run a bitcoin node.  
 In this article we will explore how to run a full validating bitcoin node on a Raspberry Pi using Umbrel.
