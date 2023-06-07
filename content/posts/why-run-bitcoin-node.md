@@ -33,3 +33,24 @@ validating transactions and blocks, and relaying them to other nodes, helping to
 invalid transactions and blocks, and by relaying valid transactions.
 
 
+## Why run a Bitcoin Node?
+
+There are many reasons why you may want to run a Bitcoin node, in this article we will explore the top 5 reasons why you
+should run a Bitcoin node.
+
+#### 1. Help to improve your financial privacy
+
+We've previously mentioned that running your own node helps reduce your reliance on third parties, which undoubtedly helps
+to protect your privacy. Using your own node prevents exposing identifying information about yourself unnecessarily, 
+and your transactions are relayed in the same way as any transaction, which helps protect the node’s identity.
+
+Running your own node and connecting a wallet to it helps optimize your privacy because it enables you to query, 
+transmit, and verify your transactions directly and without the need of a third party. This is especially important 
+when you are receiving bitcoin, as you can verify the transaction directly on your own node, and do not need to rely on
+a third party to verify the transaction for you.
+
+You do this not because you have something to hide, but because you have nothing to share. Your financial transactions 
+are your business and no one else’s, and you should be able to conduct them privately and securely. 
+
+#### 2. Help to improve the security of the Bitcoin network
+
