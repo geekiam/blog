@@ -1,8 +1,7 @@
-<script lang="ts" setup></script>
+<script lang="ts" setup>
+</script>
 
 <template>
-  <div class="fixed top-0 left-0 h-full w-1/2" aria-hidden="true" />
-  <div class="fixed top-0 right-0 h-full w-1/2" aria-hidden="true" />
   <div class="relative flex min-h-screen flex-col">
     <!-- 3 column wrapper -->
     <div class="mx-auto w-full max-w-7xl flex-grow lg:flex xl:px-8">
@@ -38,6 +37,7 @@
         </div>
       </div>
     </div>
+    <div class="clear-both" aria-hidden="true" />
   </div>
 </template>
 

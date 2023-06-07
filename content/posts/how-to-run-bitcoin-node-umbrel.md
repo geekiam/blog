@@ -8,10 +8,10 @@ author:
   github: garywoodfine
   imageUrl: /images/garywoodfine.png
 featureImage:
-  url: /images/revolution.jpg
-  title: Is the system broken?
-publishDate: 04 March 2023
-publishDateTime: 2023-03-04:17:30
+  url: /images/umbrel.jpg
+  title:  How to run a Bitcoin Node on Umbrel
+publishDate: 05 June 2023
+publishDateTime: 2023-06-05:17:30
 ---
 
-coming soon
+In this article we will explore how to run a full validating bitcoin node on a Raspberry Pi using Umbrel.
