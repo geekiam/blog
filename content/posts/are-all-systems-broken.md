@@ -220,3 +220,15 @@ in many cases to school dropout.
 An overly centralised education system may also impact on students’ sense of a lack of agency as they lack choice and 
 flexibility to direct their own learning paths, which could lead those at risk of EL to become disengaged and 
 potentially drop out.
+
+Throughout the average students education period of between 12 and 16 years, the student is subjected to a constant
+stream of propaganda, which is designed to ensure that the student is indoctrinated into the system.  Almost every ounce
+of innovation and creativity is mentally beaten out of the student, and the student is forced to conform to the system.
+
+On the face of it is nothing short of a miracle that any entrepreneurs have escaped this indoctrination process, and have actually 
+succeeded. For the entrepreneurs that have succeeded one will inevitably find that they have had to unlearn everything
+and the vast majority either dropped out or never went to university.  The vast majority have shown the will and drive 
+to succeed in spite of the system, and not because of it.
+
+
+
