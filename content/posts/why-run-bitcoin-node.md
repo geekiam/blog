@@ -56,14 +56,45 @@ are your business and no one else’s, and you should be able to conduct them pr
 
 When running your own node, you take possession of a copy of the *bitcoin blockchain and ruleset* and maintain it at 
 your unique physical location. This helps ensure no one can prevent you from accessing your node or limit your ability
-to use it, preventing censorship and contributing to the redundancy of the bticoin blockchain while helping improve 
+to use it, preventing censorship and contributing to the redundancy of the bitcoin blockchain while helping improve 
 its geographic distribution. 
 
 What this means is that by running a node, you help decentralize and secure bitcoin. The more nodes that are running, 
 the faster transactions can propagate for everyone, and the harder it is to shut down Bitcoin. In order to kill Bitcoin, 
 every single copy of the blockchain must be destroyed.
 
+Even during its relatively short history, bitcoin has already faced several challenges from governments seeking to 
+limit its use and legality. One reason bitcoin survives such restrictions is that the network is distributed across 
+thousands of nodes in every country globally. The geographical breadth of the bitcoin network also protects it from 
+localized hazards such as power outages, storms, earthquakes, war and other black-swan risks.
+
+
 #### 3. Help to improve the privacy and security of your wallet
 
 When you run your own node, you can connect your wallet to it, which helps improve your privacy and security. 
 When you connect your wallet to your own node, you can query, transmit, and verify your transactions directly and
+without the need of a third party. 
+
+Connecting your wallet to your own node helps improve your security because only you have access to your node, you would
+be the only person to know about your node and be connected to it. So you can ignore 99.9% of phishing emails and
+third party scams.
+
+#### 4. Improve your bitcoin knowledge
+
+Running your own node helps you learn more about bitcoin and how it works. You can learn how to use the various applications
+and tools that are available to you. Running your own bitcoin node offers all the advantages outlined above while 
+improving and deepening your knowledge of bitcoin and the key components that make it work. With the knowledge and 
+experience you gain from running a node, bitcoin becomes even more useful to you, and you’re able to help others use 
+it as well.  Helping to ensure that bitcoin is for everyone.
+
+#### 5. Run a Lightning node and open payment channels
+
+
+
+
+
+
+
+
+
+

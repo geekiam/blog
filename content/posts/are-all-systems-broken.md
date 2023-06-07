@@ -161,10 +161,27 @@ as a citizen of any country, I am just a human being, who happens to live in Eng
 In many respects the words of my father still ring true in my ear, Internally I am Welsh, but externally I am South African, 
 and therefore I am not British. 
 
-There are also many things I am not. I am not a patriot, I am not a nationalist, I am not a citizen, I am not a subject, 
-I am not a slave, I am not a consumer, I am not a voter, I am not a taxpayer, I am not a number, I am not a statistic,
-I am not a label, I am not a product, I am not a resource, I am not a commodity, I am not a human resource, I am not a
-human capital, I am not a human asset, I am not a human capital stock, I am not a human capital resource, I am not an employee
+There are also many things I am not. 
+* I am not a patriot
+* I am not a nationalist
+* I am not a citizen
+* I am not a subject
+* I am not a slave
+* I am not a consumer
+* I am not a voter
+* I am not a taxpayer
+* I am not a number
+* I am not a statistic
+* I am not a label
+* I am not a product
+* I am not a resource
+* I am not a commodity
+* I am not a human resource
+* I am not human capital
+* I am not a human asset
+* I am not human capital stock
+* I am not a human capital resource
+* I am not an employee
 
 The only thing identify as would be as a *Sovereign Individual*.
 
