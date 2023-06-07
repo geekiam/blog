@@ -3,41 +3,30 @@
 
 <template>
   <div class="relative flex min-h-screen flex-col">
-    <!-- 3 column wrapper -->
-    <div class="mx-auto w-full max-w-7xl flex-grow lg:flex xl:px-8">
-      <!-- Left sidebar & main wrapper -->
-      <div class="min-w-0 flex-1 xl:flex">
+    <div class="flex min-h-0 flex-1 overflow-hidden">
+      <!-- Main area -->
+      <main class="min-w-0 flex-1 lg:flex">
         <div class="xl:w-64 xl:flex-shrink-0 ">
           <div class="h-full py-6 pl-4 pr-6 sm:pl-6 lg:pl-8 xl:pl-0">
-            <div class="relative h-full" style="min-height: 12rem">
-              <div class="absolute inset-0">
-               <slot name="leftColumn" />
-              </div>
-            </div>
+            <!-- Left column area -->
+          </div>
+        </div>
+        <!-- Primary column -->
+        <section aria-labelledby="primary-heading" class="flex h-full min-w-0 flex-1 flex-col overflow-y-auto lg:order-last ">
+          <div class="prose prose-lg dark:text-gray-100 text-gray-900 px-2 sm:px-1 dark:prose-blockquote:text-orange-500
+       prose-blockquote:text-xl prose-headings:text-orange-500 prose-a:no-underline prose-a:text-orange-500 dark:prose-a:text-orange-500 justify-evenly">
+            <slot name="middleColumn" />
+          </div>
+        </section>
 
+        <!-- Secondary column (hidden on smaller screens) -->
+        <aside class="hidden lg:order-last lg:block lg:flex-shrink-0">
+          <div class="relative flex h-full w-96 flex-col overflow-y-auto ">
+            <slot name="rightColumn" />
           </div>
-        </div>
-        <div class="lg:min-w-0 lg:flex-1">
-          <div class="h-full py-6 px-4 sm:px-6 lg:px-8">
-            <div class="relative h-full" style="min-height: 36rem">
-              <div class="absolute inset-0" >
-                <slot name="middleColumn"/>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="pr-4 sm:pr-6 lg:flex-shrink-0 lg:pr-8 xl:pr-0">
-        <div class="h-full py-6 pl-6 lg:w-80">
-          <div class="relative h-full" style="min-height: 16rem">
-            <div class="absolute inset-0 ">
-              <slot name="rightColumn" />
-            </div>
-          </div>
-        </div>
-      </div>
+        </aside>
+      </main>
     </div>
-    <div class="clear-both" aria-hidden="true" />
   </div>
 </template>
 

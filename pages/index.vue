@@ -3,7 +3,8 @@
 
 import Card from "~/components/blog/card.vue";
 
-const {data: posts } = await useAsyncData('posts', () => queryContent('/posts').find());
+
+const {data: posts } = await useAsyncData('posts', () => queryContent('/posts').sort({publishDateTime: -1}).find());
 
 </script>
 
