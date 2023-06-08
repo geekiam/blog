@@ -87,7 +87,8 @@ improving and deepening your knowledge of bitcoin and the key components that ma
 experience you gain from running a node, bitcoin becomes even more useful to you, and you’re able to help others use 
 it as well.  Helping to ensure that bitcoin is for everyone.
 
-#### 5. Run a Lightning node and open payment channels
+
+
 
 
 

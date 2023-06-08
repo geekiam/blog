@@ -2,17 +2,18 @@
 </script>
 
 <template>
+  <div class="container">
   <div class="relative flex min-h-screen flex-col">
-    <div class="flex min-h-0 flex-1 overflow-hidden">
+    <div class="flex min-h-0 flex-1 ">
       <!-- Main area -->
-      <main class="min-w-0 flex-1 lg:flex">
+
         <div class="xl:w-64 xl:flex-shrink-0 ">
           <div class="h-full py-6 pl-4 pr-6 sm:pl-6 lg:pl-8 xl:pl-0">
             <!-- Left column area -->
           </div>
         </div>
         <!-- Primary column -->
-        <section aria-labelledby="primary-heading" class="flex h-full min-w-0 flex-1 flex-col overflow-y-auto lg:order-last ">
+        <section aria-labelledby="primary-heading" class="flex h-full min-w-0 flex-1 flex-col lg:order-last overflow-hidden">
           <div class="prose prose-lg dark:text-gray-100 text-gray-900 px-2 sm:px-1 dark:prose-blockquote:text-orange-500
        prose-blockquote:text-xl prose-headings:text-orange-500 prose-a:no-underline prose-a:text-orange-500 dark:prose-a:text-orange-500 justify-evenly">
             <slot name="middleColumn" />
@@ -25,8 +26,9 @@
             <slot name="rightColumn" />
           </div>
         </aside>
-      </main>
+
     </div>
+  </div>
   </div>
 </template>
 
