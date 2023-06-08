@@ -88,6 +88,22 @@ experience you gain from running a node, bitcoin becomes even more useful to you
 it as well.  Helping to ensure that bitcoin is for everyone.
 
 
+The above are just a few of the reasons why you should run a bitcoin node, there certainly many more reasons why you
+should run a bitcoin node.   One of the key concept to understand is that running a bitcoin node is not just about
+running a node, it is about taking control of your finances and your future.
+
+TThe Bitcoin network is decentralized thanks to the large number and distribution of nodes and miners. However, In the 
+case of a coordinated attack on the network or a vulnerability in the codebase, many Bitcoin nodes might be taken down 
+simultaneously. In such a hypothetical, it would be important to maintain the network, which may require more nodes 
+than currently exist. For this reason, hosting a node can be considered a contribution to the robustness of the network 
+against black swan events.
+
+The Bitcoin network is for everyone and therefore should be looked after by everyone. Everyone can make a contribution
+to help protect and serve the network.  Running a bitcoin node is one of the easiest ways to make a contribution to the
+network.  
+
+You can be up and running with your own bitcoin node in a matter of minutes.  In the next article we will explore [how
+to set up your own bitcoin node using Umbrel](/posts/how-to-run-bitcoin-node-umbrel "How to run a Bitcoin Node with Umbrel | Geekiam").
 
 
 

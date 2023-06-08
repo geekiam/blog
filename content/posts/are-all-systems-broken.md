@@ -183,7 +183,8 @@ There are also many things I am not.
 * I am not a human capital resource
 * I am not an employee
 
-The only thing identify as would be as a *Sovereign Individual*.
+The only thing I truly identify as would be a *Sovereign Individual*. Everything else is just a label, a construct to
+indicate that you are owned by the system and exploited by the system.
 
 
 ![education](/images/education.jpg){.inline.m-0.bg-primary-800} 
