@@ -10,7 +10,7 @@ author:
   imageUrl: /images/garywoodfine.png
 featureImage:
   url: /images/sovereign-individual.jpg
-  title: Is the system broken?
+  title: The Sovereign Individual
 publishDate: 23 May 2023
 publishDateTime: 2023-05-23:17:30
 ---
