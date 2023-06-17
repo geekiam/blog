@@ -1,5 +1,5 @@
 ---
-title: "The is sovereign computing"
+title: "What is sovereign computing"
 subtitle: "How the control over your own data helps you to become more sovereign"
 description:  A thesis on a revolution that will disconnect the individual from the nation-state in the 21st century. 
   the emergence of super-rich people with the influence of governments, and the rise of electronic money, among other things.
@@ -9,7 +9,7 @@ author:
   github: garywoodfine
   imageUrl: /images/garywoodfine.png
 featureImage:
-  url: /images/sovereign-individual.jpg
+  url: /images/sovereign-computing.jpg
   title: 
 publishDate: 10 June 2023
 publishDateTime: 2023-06-10:17:30
