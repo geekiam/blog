@@ -52,10 +52,23 @@ start running a Full Bitcoin node.
 
 ### Start9 EmbassyOS on a Raspberry Pi
 
+Start9 is committed to ensuring that StartOS is accessible. It will always be possible to build your own Start9 
+server similar to the ones available on their website. 
 
+Below is the list of components we used to build our own Personal Server using a Raspberry Pi 4 8GB
 
+* [Raspberry Pi 4 8GB](https://amzn.to/3p9G8jG)
+* [Geekworm NASPi V2.0 2.5 inch SATA HDD/SSD NAS Storage Kit for Raspberry Pi 4 Model B](https://amzn.to/3NAgbD6)
+* [Crucial MX500 2TB 3D NAND SATA 2.5 Inch Internal SSD](https://amzn.to/43KWDBM)
+* [SanDisk HIGH ENDURANCE Video Monitoring for Dashcams & Home Monitoring 32 GB microSDHC Memory Card](https://amzn.to/3PdIecV)
+* [Raspberry Pi 4 USB-C Power Supply UK Plug ](https://amzn.to/447q7cG)
 
+![All components of Raspberry PI server](/images/raspberry-pi-server.jpg)
 
+I'm not going to lie to you, it was a bit more difficult than I had envisioned to put together, but it was a lot of fun.
+I am not going to go into the details, but I would recommend you watch the following video to help you put it together.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RQGYf6Fqf6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
