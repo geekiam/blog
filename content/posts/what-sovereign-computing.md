@@ -19,8 +19,7 @@ The advancement and progress of technology has always been linked to progress, s
 is the ability to innovate, adapt and overcome challenges making best use of the materials and tools we have at our disposal
 has always been critical in equal measure at both of survival and demise.
 
-One of the key obstacles homo-sapiens has continually always has to overcome is the propensity to enable initially well
-meaning or intended third parties to centralise the control over the advancements. Over the millennia we have allowed centralised
+One of the key obstacles homo-sapiens has continually always has to overcome is the propensity to enable initially well intended third parties to centralise the control over the advancements. Over the millennia we have allowed centralised
 control to enforced over individuals and technology by fiefdoms, Chieftains, Kingdoms  Religious Institutions, Nation states
 and all these concepts exhibit the same common fundamental flaws.
 
