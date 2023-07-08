@@ -17,6 +17,7 @@
     "tailwindcss": "^3.3.2"
   },
   "dependencies": {
-    "@ubclaunchpad/vue-fathom": "^2.0.0"
+    "@ubclaunchpad/vue-fathom": "^2.0.0",
+    "nuxt-simple-sitemap": "^2.7.0"
   }
 }

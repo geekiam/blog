@@ -199,9 +199,13 @@ The primary focus of the *education system* is to ensure that the students are a
 ensure that they are able to get a job in order to pay taxes.  It's sole purpose from the outset is to ensure that the 
 students are able to conform to the system, ensuring that the students are able to be good consumers, compliant citizens.
 
+The original purpose of the education system was to ensure that the students were able to read, write and do basic operations 
+that would be required for them to be able to perform the tasks that would be required of them in factories. This is why 
+schools require uniforms and have bells, to ensure that the students are conditioned to be able to conform to the system.
+
 The education system has now evolved into a system that has is specifically designed to ensure the enslavement of the
 future generations by the system.  Taking these points into context, then it should be apparent that the education system
-is not actually failing it is achieve its primary objective, it's just that the people are not aware of the true purpose.
+is actually succeeding in achieving its primary objective, it's just that the people have never been aware of the true purpose.
 
 When the Education system was originally devised industries needed workers with a relatively fixed set of skills and 
 knowledge. However, today this idea is rapidly losing relevance in an era where innovation, disruption and constant 

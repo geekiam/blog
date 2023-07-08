@@ -13,10 +13,11 @@ export default defineNuxtConfig({
             }
         },
     },
-    modules: ['@nuxt/content', '@nuxtjs/tailwindcss'],
+    modules: ['@nuxt/content', '@nuxtjs/tailwindcss', 'nuxt-simple-sitemap'],
     runtimeConfig: {
         public: {
             fathom_analytics_id: process.env.fathom_analytics_id,
+            siteUrl: 'https://geekiam.blog'
         }
     },
     tailwindcss: {
