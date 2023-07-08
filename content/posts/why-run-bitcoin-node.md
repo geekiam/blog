@@ -105,6 +105,16 @@ network.
 You can be up and running with your own bitcoin node in a matter of minutes.  In the next article we will explore [how
 to set up your own bitcoin node using Umbrel](/posts/how-to-run-bitcoin-node-umbrel "How to run a Bitcoin Node with Umbrel | Geekiam").
 
+## Conclusion
+Learning how to run and manage your own bitcoin node is a key step in becoming a Sovereign Individual.  It also a key
+role in helping to protect and secure the Bitcoin network, for the benefit of everyone in the space and for the future. 
+Everyone can make a contribution to the network, and running a bitcoin node is one of the easiest ways, and it also helps
+you to learn more about bitcoin and how it works.
+
+Buying Bitcoin is more than just buying an asset, it is about taking control of your finances and your future. Investing 
+in Bitcoin is investing in yourself and learning how to change the world for the better. The current system is broken, 
+and Bitcoin and its network forms a key part of the solution.  
+
 
 
 
