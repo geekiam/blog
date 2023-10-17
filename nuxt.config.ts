@@ -13,7 +13,7 @@ export default defineNuxtConfig({
             }
         },
     },
-    modules: ['@nuxt/content', '@nuxtjs/tailwindcss', 'nuxt-simple-sitemap'],
+    modules: ['@nuxtjs/tailwindcss', '@nuxt/content',  '@nuxt/image', 'nuxt-icon', 'nuxt-headlessui',],
     runtimeConfig: {
         public: {
             fathom_analytics_id: process.env.fathom_analytics_id,
@@ -24,6 +24,17 @@ export default defineNuxtConfig({
         cssPath: '~/assets/css/tailwind.css',
         configPath: 'tailwind.config',
     },
+    nitro: {
+        prerender: {
+            routes: ['/sitemap.xml', '/rss.xml']
+        }
+    },
+    image: {
+        provider: 'cloudinary',
+        cloudinary: {
+            baseURL: 'https://res.cloudinary.com/geekiam-io/image/upload/'
+        }
+    }
 
 });
 

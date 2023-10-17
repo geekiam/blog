@@ -1,28 +1,11 @@
-<script lang="ts" setup>
-
-
-import Card from "~/components/blog/card.vue";
-
-
-const {data: posts } = await useAsyncData('posts', () => queryContent('/posts').sort({publishDateTime: -1}).find());
-
-</script>
 
 <template>
-  <nuxt-layout name="list">
-    <template #leftColumn>
 
-    </template>
-    <template #middleColumn>
-      <article v-for="post in posts" :key="post.id" class="relative isolate flex flex-col gap-8 lg:flex-row">
-        <card :post="post" />
-      </article>
-    </template>
+  <blog-feature/>
 
-    <template #rightColumn>
 
-    </template>
-  </nuxt-layout>
 </template>
 
-
+<style scoped></style>
+<script setup lang="ts">
+</script>

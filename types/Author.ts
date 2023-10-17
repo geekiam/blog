@@ -1,5 +1,5 @@
-export type Author ={
-    name: string
-    github: string
-    imageUrl: string
+declare class Author {
+    name: string;
+    github: string;
+    imageUrl: string;
 }

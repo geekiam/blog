@@ -2,14 +2,12 @@
 title: Why run a Bitcoin Node?
 subtitle: Run full validating bitcoin node on a Raspberry Pi
 description: In this article we will explore how to run a full validating bitcoin node on a Raspberry Pi using Umbrel
-summary: 
-author:
-  name: Gary Woodfine
-  github: garywoodfine
-  imageUrl: /images/garywoodfine.png
+summary: asdfasdfasdf
+category: bitcoin
 featureImage:
-  url: /images/bitcoin-accepted.jpg
+  url: lb4on0goytux0mnmtapv
   title:  Why run a Bitcoin Node?
+author: geekiam
 publishDate: 04 June 2023
 publishDateTime: 2023-06-04:17:30
 ---
